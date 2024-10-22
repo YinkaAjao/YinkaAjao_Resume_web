@@ -63,7 +63,6 @@
     font-size: 14px;
     font-weight: 400;
     font-family: "Montserrat", sans-serif;
-    border-color: #5f88e0;
 
 }
 
@@ -73,7 +72,7 @@
 }
 
 .form-control::placeholder {
-    color: #5f88e0
+    color: #838383
 }
 
 .contact-form .button {

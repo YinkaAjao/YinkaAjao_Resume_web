@@ -1,0 +1,21 @@
+/* Education Section */
+.education-section {
+    margin: 40px 0;
+  }
+  
+  .education-item {
+    display: flex;
+    align-items: center;
+    margin-bottom: 20px;
+  }
+  
+  .school-logo {
+    width: 100px; /* Adjust size accordingly */
+    height: auto;
+    margin-right: 20px;
+  }
+  
+  .education-details {
+    flex: 1;
+  }
+  
